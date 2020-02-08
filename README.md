@@ -1,5 +1,7 @@
 # integrate_test
 
+![flutter drive](https://github.com/nekoto-kun/integrate_test/workflows/flutter%20drive/badge.svg)
+
 A new Flutter project.
 
 ## Getting Started
